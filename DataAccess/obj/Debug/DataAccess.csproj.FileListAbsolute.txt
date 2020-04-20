@@ -1,5 +1,5 @@
 C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\DataAccess\bin\Debug\DataAccess.dll
 C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\DataAccess\bin\Debug\DataAccess.pdb
-C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
 C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
