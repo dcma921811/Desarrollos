@@ -1,0 +1,12 @@
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioUsuariosWinForms\bin\Debug\EjercicioUsuariosWinForms.exe.config
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioUsuariosWinForms\bin\Debug\EjercicioUsuariosWinForms.exe
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioUsuariosWinForms\bin\Debug\EjercicioUsuariosWinForms.pdb
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioUsuariosWinForms\obj\Debug\EjercicioUsuariosWinForms.csprojResolveAssemblyReference.cache
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioUsuariosWinForms\obj\Debug\EjercicioUsuariosWinForms.FormUsuarios.resources
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioUsuariosWinForms\obj\Debug\EjercicioUsuariosWinForms.Properties.Resources.resources
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioUsuariosWinForms\obj\Debug\EjercicioUsuariosWinForms.csproj.GenerateResource.Cache
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioUsuariosWinForms\obj\Debug\EjercicioUsuariosWinForms.exe
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioUsuariosWinForms\obj\Debug\EjercicioUsuariosWinForms.pdb
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioUsuariosWinForms\obj\Debug\EjercicioUsuariosWinForms.FormNuevoUsuario.resources
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioUsuariosWinForms\bin\Debug\DataAccess.dll
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioUsuariosWinForms\bin\Debug\DataAccess.pdb

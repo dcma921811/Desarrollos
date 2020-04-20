@@ -1,0 +1,12 @@
+c:\users\pc-usuario\documents\visual studio 2013\Projects\PatronesDeDisenio\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\Singleton\obj\Debug\Singleton.Properties.Resources.resources
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\Singleton\obj\Debug\Singleton.csproj.GenerateResource.Cache
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\Singleton\bin\Debug\Singleton.exe
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\Singleton\bin\Debug\Singleton.pdb
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\Singleton\obj\Debug\Singleton.exe
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\Singleton\obj\Debug\Singleton.pdb
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\Singleton\bin\Debug\EntityFramework.dll
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\Singleton\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\Singleton\bin\Debug\EntityFramework.xml
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\Singleton\bin\Debug\EntityFramework.SqlServer.xml

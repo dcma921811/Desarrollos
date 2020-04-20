@@ -1,0 +1,6 @@
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioWeb\bin\EjercicioWeb.dll.config
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioWeb\bin\EjercicioWeb.dll
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioWeb\bin\EjercicioWeb.pdb
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioWeb\obj\Debug\EjercicioWeb.csprojResolveAssemblyReference.cache
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioWeb\obj\Debug\EjercicioWeb.dll
+C:\Users\PC-Usuario\Documents\Visual Studio 2013\Projects\PatronesDeDisenio\EjercicioWeb\obj\Debug\EjercicioWeb.pdb
